@@ -1,0 +1,2 @@
+rootProject.name = "ARappKotlin"
+include ':app'
